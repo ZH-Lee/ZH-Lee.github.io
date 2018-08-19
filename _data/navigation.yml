@@ -1,5 +1,8 @@
 # Site navigation links
 
+- title: HOME
+  url: /
+
 - title: PYTHON
   url: /python/
 
