@@ -9,6 +9,7 @@ image:
 
 
 list  
+
 |Operation | Average Case | Worst Case|  
 |:-: | :-: | :-:|  
 Copy|  O(n)| O(n)|
@@ -23,6 +24,7 @@ x in s|O(n)|
 Get Length|O(1)|O(1)
 
 dict  
+
 |Operation | Average Case | Worst Case|
 :-: | :-: | :-:|
 Copy[2]|O(n)|O(n)
