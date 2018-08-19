@@ -1,6 +1,19 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: PYTHON
+  url: /python/
+
+- title: LINUX
+  url: /linux/
+  
+- title: GIT
+  url: /git/
+
+- title: ALGORIHTHM
+  url: /algorithm/
+
+- title: AI
+  url: /ai/
+
+- title: ABOUT
+  url: /about/
