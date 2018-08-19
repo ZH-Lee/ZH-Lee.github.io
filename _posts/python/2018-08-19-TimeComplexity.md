@@ -1,3 +1,12 @@
+---
+layout: article
+title: "Python_TimeComplexity"
+categories: python
+image:
+  feature: python.jpg
+  teaser: python.jpg
+---
+
 ### list
 Operation | Average Case | Worst Case|
 :-: | :-: | :-:|
@@ -20,3 +29,5 @@ Get Item|O(1)|O(n)
 Set Item[1]|O(1)|O(n)
 Delete Item|O(1)|O(n)
 Iteration[2]|O(n)|O(n)
+
+
