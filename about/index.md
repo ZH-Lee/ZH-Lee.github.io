@@ -10,7 +10,7 @@ share: false
 ads: false
 ---
 
-I am a Postgraduate from UESTC in China. I love AI but my major is Materials Science. So this blog is record my learning experience of linux, python, git and machine learning.
+I am a Postgraduate from UESTC in China. I love AI but my major is Materials Science. So this blog is to record my learning experience of linux, python, git and machine learning.
 
 Author Info:  
 E-mail: lizh_1994@163.com  
