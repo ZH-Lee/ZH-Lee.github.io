@@ -8,7 +8,7 @@ image:
 ---
 
 
-### list
+list  
 |Operation | Average Case | Worst Case|  
 |:-: | :-: | :-:|  
 Copy|  O(n)| O(n)|
@@ -22,7 +22,7 @@ Extend[1]|O(k)|O(k)
 x in s|O(n)|
 Get Length|O(1)|O(1)
 
-### dict
+dict  
 |Operation | Average Case | Worst Case|
 :-: | :-: | :-:|
 Copy[2]|O(n)|O(n)
