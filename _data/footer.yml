@@ -1,19 +1,4 @@
 # Footer navigation links
 
-- title: HOME
-  url: /
-
-- title: PYTHON
-  url: /python/
-
-- title: LINUX
-  url: /linux/
-  
-- title: GIT
-  url: /Git/
-
-- title: ALGORIHTHM
-  url: /algorithm/
-
-- title: ABOUT
-  url: /about/
+- title:
+  url:
