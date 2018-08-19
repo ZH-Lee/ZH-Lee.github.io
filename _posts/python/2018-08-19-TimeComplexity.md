@@ -7,10 +7,11 @@ image:
   teaser: python.jpg
 ---
 
+
 ### list
-Operation | Average Case | Worst Case|  
-:-: | :-: | :-:|  
-Copy    |  O(n)| O(n)|
+|Operation | Average Case | Worst Case|  
+|:-: | :-: | :-:|  
+Copy|  O(n)| O(n)|
 Append[1]|O(1)|O(1)|
 Pop last|O(1)|O(1)
 Pop intermediate|O(k)|O(k)
@@ -22,7 +23,7 @@ x in s|O(n)|
 Get Length|O(1)|O(1)
 
 ### dict
-Operation | Average Case | Worst Case|
+|Operation | Average Case | Worst Case|
 :-: | :-: | :-:|
 Copy[2]|O(n)|O(n)
 Get Item|O(1)|O(n)
