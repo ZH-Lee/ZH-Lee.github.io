@@ -6,7 +6,7 @@ image:
   feature: spot.jpg
   teaser: spot.jpg
 ---
-##Kanade 算法
+
 用于求解给定数组中，最大子数组和的算法。  
 如一个数组[-1, 2, 3, -4, 6], 求最大的子数组值
   
