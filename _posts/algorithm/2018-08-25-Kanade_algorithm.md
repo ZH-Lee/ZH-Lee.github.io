@@ -3,8 +3,8 @@ layout: article
 title: "Kanade 算法"
 categories: algorithm
 image:
-  feature: al.jpg
-  teaser: al.jpg
+  feature: spot.jpg
+  teaser: spot.jpg
 ---
 ##Kanade 算法
 用于求解给定数组中，最大子数组和的算法。  
