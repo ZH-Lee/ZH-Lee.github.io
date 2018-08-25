@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Ai"
-excerpt: "A collection of Machine Learning and Deep Learning."
+title: "Opencv"
+excerpt: "C++ or Python3"
 image:
   feature:
   teaser:
 ---
 
 <div class="tiles">
-{% for post in site.categories.ai %}
+{% for post in site.categories.opencv %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

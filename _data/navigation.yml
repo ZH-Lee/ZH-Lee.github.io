@@ -6,17 +6,17 @@
 - title: PYTHON
   url: /python/
 
-- title: LINUX
-  url: /linux/
+- title: C++
+  url: /c++/
   
-- title: GIT
-  url: /git/
+- title: Opencv
+  url: /opencv/
 
 - title: ALGORIHTHM
   url: /algorithm/
 
-- title: AI
-  url: /ai/
+- title: Project
+  url: /project/
 
 - title: ABOUT
   url: /about/
